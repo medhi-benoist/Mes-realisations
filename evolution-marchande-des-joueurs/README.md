@@ -5,12 +5,12 @@ Analyse de l’évolution de la valeur marchande des joueurs à partir de donné
 
 ---
 
-## Valeur marchande de tous les joueurs
+## Valeur marchande de tous les joueurs (filtré sur Eden Hazard, année 2018)
 ![Valeur marchande globale](Market_value_all.png)
 
 ---
 
-## Top 10 des joueurs avec la plus forte valeur marchande
+## Top 10 des joueurs avec la plus forte valeur marchande (filtré sur la PL et l'année 2018)
 ![Top 10](Top10_market.png)
 
 ---
