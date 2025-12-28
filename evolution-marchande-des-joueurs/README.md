@@ -1,6 +1,6 @@
 # Évolution de la valeur marchande des joueurs de football
 
-Analyse de l’évolution de la valeur marchande des joueurs à partir de donnéessportives, avec visualisations analytiques.Captures et enregsitrement d'écran pour la démonstration du projet.
+Analyse de l’évolution de la valeur marchande des joueurs à partir de données sportives, avec visualisations analytiques.Captures et enregsitrement d'écran pour la démonstration du projet.
 
 
 ---
