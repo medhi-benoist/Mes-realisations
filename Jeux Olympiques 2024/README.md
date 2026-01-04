@@ -41,9 +41,3 @@ Analyse de l’évolution des médailles dans le temps :
 - comparaison temporelle par pays
 
 ![Historique](historique.png)
-
-## 🛠️ Outils utilisés
-- Power BI  
-- Python (préparation des données)  
-- Visualisation de données  
-- Analyse exploratoire
