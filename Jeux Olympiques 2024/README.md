@@ -23,7 +23,7 @@ Analyse détaillée des athlètes :
 Cette section permet d’explorer :
 - la comparaison des performances par nation
 
-![Pays](country.png)
+![country](country.png)
 
 ---
 
