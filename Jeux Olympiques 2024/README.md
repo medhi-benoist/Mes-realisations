@@ -11,8 +11,8 @@ réalisées sous Power BI.
 
 ## 🏃 Athlètes
 Analyse détaillée des athlètes :
-- classement des athlètes par nombre de médailles
 - comparaison femmes / hommes
+- classement des athlètes par nombre de médailles
 - le top 10 des pays par nombre de participants
 
 ![Athlètes](athletes.png)
