@@ -22,6 +22,7 @@ Analyse détaillée des athlètes :
 ## 🌍 Pays
 Cette section permet d’explorer :
 - la comparaison des performances par nation
+- visualisation de l'utilisation du graphique en vidéo juste en dessous
 
 ![Country](country.png)
 
