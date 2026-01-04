@@ -5,7 +5,7 @@ Projet d’analyse des Jeux Olympiques visant à explorer la répartition des at
 des pays et des médailles à travers le temps à l’aide de visualisations interactives
 réalisées sous Power BI.
 
-![Accueil](accueil.png)
+![Accueil](homepagejo.png)
 
 ---
 
